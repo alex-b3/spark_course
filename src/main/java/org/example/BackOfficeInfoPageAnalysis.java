@@ -89,7 +89,6 @@ public class BackOfficeInfoPageAnalysis {
             System.out.println("-----------------------------------------------------");
         }
 
-
         spark.stop();
     }
 }
